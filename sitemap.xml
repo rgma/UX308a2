@@ -22,12 +22,12 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/regular-boba/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/regular-boba/
+            http://localhost:8000/products/fruit-smoothie/
         </loc>
     </url>
     <url>
